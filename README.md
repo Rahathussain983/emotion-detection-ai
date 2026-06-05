@@ -28,3 +28,10 @@ You can try out the live, interactive model here:
 
 ## 🏢 About HexSoftwares Internship
 This project was built during my practical internship experience at **HexSoftwares**. The program focuses on bridging the gap between theoretical knowledge and industry demands by tasking interns with building real-world AI/ML applications, adhering to clean coding standards, and deploying functional models.
+
+
+
+---
+
+CONNECT WITH ME ON LINKD IN
+https://www.linkedin.com/posts/rahat-hussain-7b2398398_github-change-is-constant-github-keeps-share-7468724542480277504-MHJu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGWt3YBNrWQ0WR5d3FSJp7mQQpeqyMBG_4
